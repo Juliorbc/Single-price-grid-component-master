@@ -33,7 +33,7 @@
 ## Overview
 
 ![screenshot](./images/screenshot_desktop.png)
-![screenshot](./images/screenshot_movil.png)
+![screenshot](./images/screenshot_mobile.png)
 
 
 ## Built With
